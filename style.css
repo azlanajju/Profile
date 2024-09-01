@@ -28,3 +28,34 @@
 .myself p{
     font-size: 25px;
 }
+
+.more {
+    display: flex;
+    justify-content: center;
+    flex-direction: column ;
+    font-size: 0.75rem;
+
+}
+.more p {
+    color: rgb(126, 126, 126);
+    margin-top: 20px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+.more a {
+    text-decoration: none;
+    color: rgb(126, 126, 126);
+    font-size: 0.6rem;
+    display: flex;
+    justify-content: center;
+    border: 2px solid rgba(255, 255, 0, 0.344);
+    margin: 0 47.8%;
+    border-radius: 5px;
+    padding: 2px 0;
+}
+.more a:hover{
+    border: 2px solid rgb(255, 255, 0);
+    color: white;
+}
+
+
