@@ -47,14 +47,16 @@
     color: rgb(126, 126, 126);
     display: flex;
     justify-content: center;
-    border: 2px solid rgba(255, 255, 0, 0.344);
+    /*border: 2px solid rgba(255, 255, 0, 0.344);*/
     margin: 0 47.8%;
     border-radius: 5px;
     padding: 2px 0;
+  color: rgb(0, 255, 47);
 }
 .more a:hover{
-    border: 2px solid rgb(0, 255, 47);
+/*    border: 2px solid rgb(0, 255, 47); */
     color: white;
+
 }
 
 
